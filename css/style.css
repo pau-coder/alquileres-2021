@@ -745,6 +745,10 @@ ol {
   Home Page Room Section 
 -------------------------*/
 
+.list-group-item {
+  width: 200px;
+}
+
 .hp-room-items {
   margin-left: -15px;
   margin-right: -15px;
